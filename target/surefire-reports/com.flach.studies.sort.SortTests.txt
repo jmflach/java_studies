@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.flach.studies.AppTest
+Test set: com.flach.studies.sort.SortTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in com.flach.studies.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.104 s - in com.flach.studies.sort.SortTests
