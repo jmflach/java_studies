@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.flach.studies.sort.InsertionSortTests" time="0.001" tests="6" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.flach.studies.challenges.TwoSumTests" time="0.16" tests="6" errors="0" skipped="0" failures="0">
   <properties>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="java.specification.version" value="11"/>
@@ -56,10 +56,10 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="sortArray2" classname="com.flach.studies.sort.InsertionSortTests" time="0"/>
-  <testcase name="sortArray3" classname="com.flach.studies.sort.InsertionSortTests" time="0"/>
-  <testcase name="sortArray4" classname="com.flach.studies.sort.InsertionSortTests" time="0"/>
-  <testcase name="sortArray5" classname="com.flach.studies.sort.InsertionSortTests" time="0.001"/>
-  <testcase name="sortArray6" classname="com.flach.studies.sort.InsertionSortTests" time="0"/>
-  <testcase name="sortArray" classname="com.flach.studies.sort.InsertionSortTests" time="0"/>
+  <testcase name="testTwoSum2" classname="com.flach.studies.challenges.TwoSumTests" time="0.008"/>
+  <testcase name="testTwoSum3" classname="com.flach.studies.challenges.TwoSumTests" time="0.003"/>
+  <testcase name="testTwoSum4" classname="com.flach.studies.challenges.TwoSumTests" time="0"/>
+  <testcase name="testTwoSum5" classname="com.flach.studies.challenges.TwoSumTests" time="0.001"/>
+  <testcase name="testTwoSum6" classname="com.flach.studies.challenges.TwoSumTests" time="0.002"/>
+  <testcase name="testTwoSum" classname="com.flach.studies.challenges.TwoSumTests" time="0.005"/>
 </testsuite>
